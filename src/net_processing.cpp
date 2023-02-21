@@ -5,6 +5,7 @@
 
 #include <net_processing.h>
 
+#include <array>
 #include <addrman.h>
 #include <arith_uint256.h>
 #include <blockencodings.h>
