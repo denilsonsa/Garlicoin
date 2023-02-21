@@ -14,6 +14,7 @@
 #include <qt/platformstyle.h>
 #include <qt/sendcoinsentry.h>
 
+#include <array>
 #include <base58.h>
 #include <chainparams.h>
 #include <wallet/coincontrol.h>
